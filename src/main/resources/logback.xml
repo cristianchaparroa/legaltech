@@ -6,7 +6,7 @@
         </encoder>
     </appender>
 
-    <logger name="scotiabank" level="debug"/>
+    <logger name="legaltech" level="debug"/>
 
 
     <root level="ERROR">
